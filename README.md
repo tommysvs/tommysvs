@@ -6,7 +6,7 @@
     <a href="https://www.linkedin.com/in/tommyvega/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="https://wwww.instagram.com/tommysvs/" target="_blank">
+    <a href="https://www.instagram.com/tommysvs/" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
     <a href="https://www.twitter.com/tommyvega96/" target="_blank">
