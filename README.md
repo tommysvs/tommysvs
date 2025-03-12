@@ -1,8 +1,10 @@
-<h1 align="center">
-    👋🏻 Hi, you've reached Tommy's Git! 
-</h1>
+[![Views](https://komarev.com/ghpvc/?username=tommysvs&style=flat)](https://github.com/antonkomarev/github-profile-views-counter)
 
-<p align="center">
+### 👋🏻 Hi, you've reached Tommy's Git! 
+
+I am a Computer Science Engineer and have worked in different areas within the IT field, where I have been able to excel in databases and system administration.
+
+<p align="left">
     <a href="https://www.linkedin.com/in/tommyvega/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
@@ -14,15 +16,14 @@
     </a> -->
 </p>
 
-<p align="center">
-    <img src="https://github-readme-stats-rose-seven.vercel.app/api?username=tommysvs&show_icons=true&theme=synthwave" />
-</p>
+<div class="d-block">
+  <img src="https://github-readme-stats-rose-seven.vercel.app/api?username=tommysvs&show_icons=true&theme=synthwave" width="46.3%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommysvs&layout=compact&theme=synthwave" width="33%" />
+</div>
 
-<h2 align="center">
-    Tech Stack
-</h2>
+### Tech Stack
 
-<p align="center">
+<p align="left">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -37,8 +38,4 @@
     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommysvs&layout=compact&theme=synthwave" />
 </p>
