@@ -17,8 +17,8 @@ I am a Computer Science Engineer and have worked in different areas within the I
 </p>
 
 <div class="d-block">
-  <img src="https://github-readme-stats-rose-seven.vercel.app/api?username=tommysvs&show_icons=true&theme=synthwave" width="46.3%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommysvs&layout=compact&theme=synthwave" width="33%" />
+  <img src="https://github-readme-stats-rose-seven.vercel.app/api?username=tommysvs&show_icons=true&theme=cobalt" width="46.3%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommysvs&layout=compact&theme=cobalt" width="33%" />
 </div>
 
 ### Tech Stack
