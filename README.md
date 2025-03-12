@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats-rose-seven.vercel.app/api?username=tommysvs&show_icons=true&theme=material-palenight" />
+    <img src="https://github-readme-stats-rose-seven.vercel.app/api?username=tommysvs&show_icons=true&theme=synthwave" />
 </p>
 
 <h2 align="center">
@@ -40,5 +40,5 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommysvs&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommysvs&layout=compact&theme=synthwave" />
 </p>
