@@ -19,7 +19,7 @@
 </p>
 
 <h2 align="center">
-    Skills
+    Tech Stack
 </h2>
 
 <p align="center">
@@ -39,7 +39,6 @@
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-<!-- <p align="center">
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommysvs&layout=compact" />
 </p>
--->
