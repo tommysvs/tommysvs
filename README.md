@@ -2,8 +2,7 @@
 
 ### 👋🏻 Hi, you've reached Tommy's Git! 
 
-I am a Computer Science Engineer and have worked in different areas within the IT field, where I have been able to excel in databases and IT management. 
-Currently working as Systems Analyst.
+I am a Computer Science Engineer from UNICAH and alumni from Valencia College who have worked in different areas within the IT field, where I have been able to excel in databases, web/app development and IT management. Currently working as Systems Analyst.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/tommyvega/" target="_blank">
