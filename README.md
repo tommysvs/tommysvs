@@ -1,8 +1,10 @@
 [![Views](https://komarev.com/ghpvc/?username=tommysvs&style=flat)](https://github.com/antonkomarev/github-profile-views-counter)
 
-### 👋🏻 Hi, you've reached Tommy's Git! 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&vCenter=true&width=435&lines=Hi%2C+you've+reached+Tommy's+Git!)](https://git.io/typing-svg)
 
-I am a Computer Science Engineer from UNICAH and alumni from Valencia College who have worked in different areas within the IT field, where I have been able to excel in databases, web/app development and IT management. Currently working as Systems Analyst.
+A Computer Science Engineer who has worked in different areas within the IT field, excelling in databases, web/app development and IT management.
+
+Currently working as Systems Analyst.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/tommyvega/" target="_blank">
@@ -14,8 +16,8 @@ I am a Computer Science Engineer from UNICAH and alumni from Valencia College wh
 </p>
 
 <div class="d-block">
-  <img src="https://github-readme-stats-rose-seven.vercel.app/api?username=tommysvs&show_icons=true&theme=cobalt" width="46.3%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommysvs&layout=compact&theme=cobalt" width="33%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommysvs&layout=compact&theme=cobalt" width="34%" />
+  <img src="https://github-readme-stats-rose-seven.vercel.app/api?username=tommysvs&show_icons=true&theme=cobalt" width="45%" />
 </div>
 
 ### Tech Stack
