@@ -38,9 +38,12 @@ Currently working as Systems Analyst.
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff" />
     <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+    <img src="https://img.shields.io/badge/node.js-339933?&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff" />
+    <img src="https://img.shields.io/badge/gsap-88CE02?&logo=greensock&logoColor=white" />
     <img src="https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=fff" />
     <img src="https://img.shields.io/badge/json-5E5C5C?&logo=json&logoColor=white" />
+    <img src="https://img.shields.io/badge/xml-5E5C5C?&logo=xml&logoColor=white" />
     <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white" />
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white" />
     <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white" />
