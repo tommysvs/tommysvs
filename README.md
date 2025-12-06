@@ -4,7 +4,7 @@
 
 A Computer Science Engineer who has worked in different areas within the IT field, excelling in databases, web/app development and IT management.
 
-Currently working as Systems Analyst.
+Currently working as Systems Analyst and Project Manager.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/tommyvega/" target="_blank">
@@ -16,7 +16,7 @@ Currently working as Systems Analyst.
 </p>
 
 <div class="d-block">
-  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommysvs&layout=compact&theme=cobalt" width="34%" /> -->
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommysvs&layout=compact&theme=cobalt" width="34%" /> Paused by owner--> 
   <img src="https://github-readme-stats-rose-seven.vercel.app/api?username=tommysvs&show_icons=true&theme=cobalt" width="45%" />
 </div>
 
