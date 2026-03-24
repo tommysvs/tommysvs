@@ -37,8 +37,12 @@ Currently working as Systems Analyst and Project Manager.
     <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" />
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff" />
     <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff" />
+    <img src="https://img.shields.io/badge/Bulma-00D1B2?&logo=Bulma&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
     <img src="https://img.shields.io/badge/node.js-339933?&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vite-B73BFE?&logo=vite&logoColor=FFD62E" />
+    <img src="https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Vue%20js-35495E?&logo=vuedotjs&logoColor=4FC08D" />
     <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff" />
     <img src="https://img.shields.io/badge/gsap-88CE02?&logo=greensock&logoColor=white" />
     <img src="https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=fff" />
@@ -53,6 +57,7 @@ Currently working as Systems Analyst and Project Manager.
     <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" />
     <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" />
     <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff" />
+    <img src="https://img.shields.io/badge/Blazor-512BD4?&logo=blazor&logoColor=white" />
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
     <img src="https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white" />
